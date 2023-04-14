@@ -1,0 +1,17 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    background-image: url('../src/bg.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+.text-justify {
+    text-align: justify;
+    text-justify: inter-word;
+}
